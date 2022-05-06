@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "166370074868",
+    "project_id": "beaconfisrt",
+    "storage_bucket": "beaconfisrt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166370074868:android:5b434abc7d6ea461a93ea1",
+        "android_client_info": {
+          "package_name": "com.example.aaabbbccc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166370074868-913mhgela16segcmnt1lh0kr89kf3jdp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aaabbbccc",
+            "certificate_hash": "c414ade57a6d2268e45a8cd3732595b93cc5f00d"
+          }
+        },
+        {
+          "client_id": "166370074868-51nncg0cgp74l5k3upeffq83dnb2dg94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCieXTjC8ehEQPAX1OODfc9xMzPlYT3wao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166370074868-51nncg0cgp74l5k3upeffq83dnb2dg94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
